@@ -1,0 +1,7 @@
+{
+  "name": "Tirumala Bank - Bright Future Initiative",
+  "description": "A secure, modern, and trustworthy banking platform specializing in student education loans and professional banking services with integrated blockchain verification and AI support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
